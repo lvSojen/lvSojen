@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yao
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning React frontend, Django backend for a full-sttack project, also learning about android application development
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 Reach me at: contact@yaow.net
